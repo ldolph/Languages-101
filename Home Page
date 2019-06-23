@@ -1,0 +1,57 @@
+<html>
+
+<head>
+	<title> Gargoyl </title>
+	<link rel="stylesheet" href="styles/styles.css"> 
+</head>
+
+<body>
+
+	<header>
+		<a href="Index.html">Languages 101</a>
+	</header>
+	<main>
+
+		<h1>
+			Pick a country!
+		</h1>
+		<div class="main-content">
+			<div class="card">
+				<a href="FranceHomeScreen.html">
+					<img src="https://cdn.discordapp.com/attachments/382780568527568907/592090729493430358/FranceRadialisedCorners2.png">
+				</a>
+
+			</div>
+			<div class="card">
+				<a href="IndiaHomeScreen.html">
+					<img src="https://cdn.discordapp.com/attachments/382780568527568907/592088427428577286/IndiaRadialisedcorners.png">
+				</a>
+			</div>
+			<div class="card">
+				<a href="JapanHomeScreen.html">
+					<img src="https://cdn.discordapp.com/attachments/382780568527568907/592087666867044361/JapanRadialisedCorners.png">
+				</a>
+			</div>
+			<div class="card">
+				<a href="MexicoHomeScreen.html">
+					<img src="https://cdn.discordapp.com/attachments/382780568527568907/592091900484255755/MexicoRadicalisedCorners.png">
+				</a>
+			</div>
+			<div class="card">
+				<a href="UgandaHomeScreen.html">
+					<img src="https://cdn.discordapp.com/attachments/382780568527568907/592071700598882313/unknown.png">
+				</a>
+			</div>
+			<div class="box">
+				<img src="https://cdn.discordapp.com/attachments/382780568527568907/592094019832774667/EarthRadicalisedCorners.png">
+			</div>
+		</div>
+		
+	</main>
+	<footer>
+
+	</footer>
+
+</body>
+
+</html>
