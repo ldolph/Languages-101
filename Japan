@@ -1,0 +1,98 @@
+<html>
+<head>
+  <title> Gargoyl </title>
+  <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<header>
+  <a href="Index.html">Languages 101</a>
+</header>
+
+<body>
+  <center> <h1> Japanese </h1> </center>
+  <center> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png" width="200" height="200"> </center>
+  
+  <div class="container">
+    <div class = "information">
+      <h1> History </h1>
+      <p>
+      	The first humans to populate Japan traveled over a land bridge during an ice age around 35,000 BCE. There they developed an agrarian society that had a reverence for nature. Contact with early Korea and China helped model the Japanese alphabet, religion, and political systems. Periods of great intellectual and artistic growth followed. Divisions concerning warring factions kept the people from uniting under one ruler for a long stretch of Japanese early history. After one leader was able to unify the country, he closed the borders to isolate Japanese culture from outside influences. Eventually Japan reopened borders and became a world leader.
+      </p>
+    </div>
+    <div class = "information"> 
+      <h1> Common Phrases </h1>
+      <p>
+        <ul>
+         <li>
+         	<a href="JapanHello.mp3"> こんにちは </a> : Kon'nichiwa : Hello
+         </li>
+         <li>
+         	<a href="JapanGoodbye.mp3"> さようなら </a> : Sayōnara : Goodbye
+         </li>
+         <li>
+         	<a href="JapanPlease.mp3"> お願いします </a> : Onegaishimasu : Please
+         </li>
+         <li> 
+         	<a href="JapanWhatIsYourName.mp3"> あなたの名前は何ですか？</a> : Anata no namae wa nanidesu ka? : What's your name?
+         </li>
+         <li>
+         	<a href="JapanYesNo.mp3"> はい/いいえ </a> : Hai/ īe : Yes/No
+         </li>
+         <li>
+         	<a href="JapanHowAreYou.mp3"> お元気ですか </a> : Ogenkidesuka? : How are you?
+         </li>
+         <li> 
+         	<a href="JapanExcuseMe.mp3"> すみません </a> : Sumimasen : Excuse me 
+         </li>
+         <li> 
+         	<a href="JapanIDoNotKnow.mp3"> 私は知らない </a> : Watashi wa shiranai : I do not know 
+         </li>
+         <li> 
+         	<a href="JapanHowDoYouSay.mp3"> __は日本語で何と言いますか？ </a> : __Wa nihongodenantoiimasuka? : How do you say __ in Japanese?
+         </li>
+         <li>
+         	<a href="JapanHowMuch.mp3"> いくらですか </a> : Ikuradesu ka : How much? 
+         </li>
+         <li>
+         	<a href="JapanToilet.mp3"> トイレはどこにありますか？</a> : Toire wa doko ni arimasu ka? : Where are the toilettes? 
+         </li>
+         <li> 
+         	<a href="JapanMenu.mp3"> メニューはありますか? </a> : Menyū wa arimasu ka : The menu, please 
+         </li>
+         <li> 
+         	<a href="JapanILoveYou.mp3"> わたしは、あなたを愛しています </a> : Watashi wa, anata o aishiteimasu : I love you 
+         </li>
+         <li> 
+         	<a href="JapanThankYou.mp3"> どうもありがとうございます </a> : Dōmo arigatōgozaimasu : Thanks a lot 
+         </li>
+       </ul>
+     </p>
+   </div>
+
+   <div class = "information">
+    <h1>Food</h1>
+    <p>
+      <a href="https://www.bbcgoodfood.com/recipes/722637/japanese-ramen-noodle-soup">
+      <img src="https://cdn.discordapp.com/attachments/382780568527568907/592186045240573956/Ramen_-_Japan_copy.png">
+      Ramen
+      </a>
+    </p>
+
+    <p>
+      <a href="https://www.allrecipes.com/recipe/193307/easy-mochi/">
+      <img src="https://cdn.discordapp.com/attachments/382780568527568907/592186004505624605/Mochi_-_Japan_copy.png">
+      Mochi
+      </a>
+    </p>
+
+    <p>
+      <a href="https://www.thespruceeats.com/tempura-batter-recipe-2031529">
+      <img src="https://cdn.discordapp.com/attachments/382780568527568907/592185806509309952/Tempura_-_Japan_copy.png">
+      Tempura
+      </a>
+    </p>
+</div>
+
+</div>
+</body>
+</html>
