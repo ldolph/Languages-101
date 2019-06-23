@@ -1,0 +1,100 @@
+<html>
+<head>
+  <title> Gargoyl </title>
+  <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<header>
+  <a href="Index.html">Languages 101</a>
+</header>
+
+<body>
+  <center> <h1> Spanish </h1> </center>
+  <center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1280px-Flag_of_Mexico.svg.png" width="200" height="200"> </center>
+  
+  <div class="container">
+    <div class = "information">
+      <h1> History </h1>
+      <p>Mexico is made up of 31 states and one federal district. It is the third largest country in Latin America and has one of the largest populations—more than 100 million—making it the home of more Spanish speakers than any other nation in the world.
+      </p>
+    </div>
+    <div class = "information"> 
+      <h1> Common Phrases </h1>
+      <p>
+        <ul>
+         <li> 
+            <a href="Hola_-_Hello.mp3"> 
+          Hola
+            </a>
+          : Hello</li>
+         <li>
+          <a href="MexicoGoodbye.mp3"> Adiós </a> : Goodbye
+         </li>
+         <li>
+          <a href="MexicoPlease.mp3"> Por favor </a> : Please
+         </li>
+         <li>
+          <a href="MexicoName.mp3"> ¿Cómo te llamas? </a> : What's your name?
+         </li>
+         <li> 
+          <a href="MexicoYesNo.mp3"> Sí/No </a> : Yes/No
+         </li>
+         <li>
+          <a href="MexicoHowAreYou.mp3"> ¿Cómo estás? </a> : How are you?
+         </li>
+         <li>
+          <a href="MexicoExcuseMe.mp3"> Disculpa </a> : Excuse me
+         </li>
+         <li>
+          <a href="MexicoIDontUnderstand.mp3"> No entiendo </a> : I don't understand
+         </li>
+         <li>
+          <a href="MexicoHowDoYouSay.mp3"> ¿Cómo se dice __ en español? </a> : How do you say __ in spanish?
+         </li>
+         <li>
+          <a href="MexicohowMuch.mp3"> ¿Cuánto? </a> : How much? 
+         </li>
+         <li>
+          <a href="MexicoBathroom.mp3"> ¿Dónde están los baños? </a> : Where are the toilettes?
+         </li>
+         <li> 
+          <a href="MexicoMenu.mp3"> El menú, por favor </a> : The menu, please 
+         </li>
+         <li> 
+          <a href="MexicoLove.mp3"> Te amo </a> : I love you 
+         </li>
+         <li>
+          <a href="MexicoThanksALot.mp3"> Muchas gracias </a> : Thanks a lot 
+         </li>
+       </ul>
+     </p>
+   </div>
+
+   <div class = "information">
+    <h1>Food</h1>
+    <p>
+      <a href="https://www.foodnetwork.com/recipes/ree-drummond/simple-perfect-enchiladas-recipe0-2043114">
+      <img src="https://cdn.discordapp.com/attachments/382780568527568907/592186611400310814/Enchiladas_-_Mexico_copy.png">
+      Enchiladas
+      </a>
+
+    </p>
+
+    <p>
+      <a href="https://mexicanfoodjournal.com/red-pork-pozole/">
+      <img src="https://cdn.discordapp.com/attachments/382780568527568907/592186480554672139/Poloze_-_Mexico_copy.png">
+      Pozole
+      </a>
+    </p>
+
+    <p>
+      <a href="https://www.tasteofhome.com/recipes/chalupas/">
+      <img src="https://cdn.discordapp.com/attachments/382780568527568907/592186386782617620/Chalupa_-_Mexico_copy.png">
+      Chalupas
+      </a>
+    </p>
+</div>
+
+</div>
+</body>
+</html>
