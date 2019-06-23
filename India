@@ -1,0 +1,101 @@
+<html>
+<head>
+  <title> Gargoyl </title>
+  <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<header>
+  <a href="Index.html">Languages 101</a>
+</header>
+
+<body>
+  <center> <h1> Hindu </h1> </center>
+  <center> <img src="https://cdn.pixabay.com/photo/2016/08/24/17/07/india-1617463_960_720.png" width="200" height="200"> </center>
+  
+  <div class="container">
+    <div class = "information">
+      <h1> History </h1>
+      <p>The Indian subcontinent is the site of a civilization as ancient as any in the world. City states arose in North India, along the Indus River, at about the same time as the early civilizations of the Tigris-Euphrates at Sumer and other locations.
+      </p>
+    </div>
+
+    <div class = "information"> 
+      <h1> Common Phrases </h1>
+      <p>
+        <ul>
+          <li> 
+            <a href="HelloHindu.mp3"> नमस्कार </a> : namaskāra : Hello
+          </li>
+          <li>
+            <a href="WelcomeHindu.mp3"> स्वागत </a> : svāgata : Welcome
+          </li>
+          <li>
+            <a href="Good_morningHindu.mp3"> सुप्रभात </a> : suprabhāta : Good morning
+          </li>
+          <li> 
+             <a href="GoodbyeHindu.mp3"> नमस्ते </a> : Namaste : Goodbye
+          </li>
+          <li>
+             <a href="ThankYouHindu.mp3"> धन्यवाद </a> : dhanyavāda : Thank you
+          </li>
+          <li> 
+             <a href="andYouHindu.mp3"> आप </a> : āpa : You (formal/polite)
+          </li>
+          <li> 
+             <a href="YesHindu.mp3"> हाँ </a> : hān : Yes 
+          </li>
+          <li>
+             <a href="NoHindu.mp3"> नहीं </a> : nahīṃ : No 
+         </li> 
+         <li> 
+             <a href="SorryHindu.mp3"> माफ कीजिए </a> : māpha kījie : Sorry </li> 
+         <li> 
+             <a href="iAmFinem.mp3"> मै अच्छा हूँ </a> : mai acchā hūn : I am fine (male) 
+         </li> 
+         <li> 
+             <a href="iAmFinefemale.mp3"> मै अच्छी हूँ </a> : mai acchī hūn : I am fine (female) 
+         </li>
+         <li> 
+             <a href="howAreYouHindu.mp3"> आप कैसे हैं? </a> : āpa kaise hain? : How are you? (male)  
+         </li>
+         <li> 
+             <a href="andYouHindu.mp3"> और आप? </a> : aura āpa? : And you? 
+         </li>
+         <li> 
+             <a href="whatIsTheCostofKurtaHindu.mp3"> Bhai-saahub, is kurte ka kya daam hai? </a> : (Excuse me, what is the cost of this kurta?) 
+         </li>
+         <li> 
+             <a href="thatIsTooMuchHindu.mp3"> Yeh to bahut zyada hai. </a> :
+             (That is too much.) 
+         </li>
+      </ul>
+    </p>
+  </div>
+
+  <div class = "information">
+    <h1>Food</h1>
+    <p>
+      <a href="https://lilluna.com/homemade-naan-bread/">
+        <img src="https://cdn.discordapp.com/attachments/382780568527568907/592184233842442260/Naan_-_India_copy.png">
+        Naan
+      </a>
+    </p>
+
+    <p>
+      <a href="https://www.youtube.com/watch?v=IYvo1d5_SSw">
+        <img src="https://cdn.discordapp.com/attachments/382780568527568907/592184087393992714/Sambar_-_India_copy.png">
+        Sambar
+      </a>
+    </p>
+
+    <p>
+      <a href="https://tasty.co/recipe/homemade-chicken-tikka-masala"> 
+        <img src="https://cdn.discordapp.com/attachments/382780568527568907/592184373609234462/Chicken_Tikka_-_India_copy.png">
+        Chicken Tikka
+      </a>
+    </p>
+  </div>
+
+</div>
+</body>
+</html>
