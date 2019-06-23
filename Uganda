@@ -1,0 +1,97 @@
+<html>
+<head>
+  <title> Gargoyl </title>
+  <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<header>
+  <a href="Index.html">Languages 101</a>
+</header>
+
+<body>
+  <center> <h1> Swahili </h1> </center>
+  <center> <img src="https://cdn.discordapp.com/attachments/382780568527568907/592192733482057759/Screen_Shot_2019-06-22_at_10.22.10_PM.png" width="200" height="200"> </center>
+  <div class="container">
+    <div class = "information">
+      <h1> History </h1>
+      <p>Uganda shows archaeological evidence of habitation dating back 50,000 to 100,000 years ago. Multiple cultures resided in the region and passed their histories down through rich oral traditions. Uganda is home to a large portion of Lake Victoria. The fertile soil of Uganda provides much of Africa with produce. Uganda is known for the vast natural habitats of many animals such as birds, gorillas, and elephants. Turbulent leadership changes during the 19th and 20th centuries challenged the Ugandan people. Despite the political stresses, Uganda culture remains strong.
+      </p>
+    </div>
+    <div class = "information"> 
+      <h1> Common Phrases </h1>
+      <p>
+        <ul>
+         <li>
+          <a href="UgandaHello.mp3"> Jambo </a> : Hello
+         </li>
+         <li>
+          <a href="UgandaGoodbye.mp3"> Kwa heri </a> : Goodbye
+         </li>
+         <li>
+          <a href="UgandaPlease.mp3"> Tafadhali </a> : Please
+         </li>
+         <li>
+          <a href="UgandaWhatsYourName.mp3"> Jina lako nani? </a> : What’s your name?
+         </li>
+         <li>
+          <a href="UgandaYesNo.mp3"> Ndiyo/Hapana </a> : Yes/No
+         </li>
+         <li>
+          <a href="UgandaHowAreYou.mp3"> Habari gani </a> : How are you?
+         </li>
+         <li>
+          <a href="UgandaExcuseMe.mp3"> Samahani </a> : Excuse me
+         </li>
+         <li>
+          <a href="UgandaIDontUnderstand.mp3"> Sielewi </a> : I don’t understand
+         </li>
+         <li>
+          <a href="UgandaHowDoYouSay.mp3"> Unasemaje  kwa kiswahili? </a> : How do you say  in Swahili?
+         </li>
+         <li>
+          <a href="UgandaHowMuch.mp3"> Kiasi gani </a> : How much? 
+         </li>
+         <li>
+          <a href="UgandaBathroom.mp3"> Choo kiko wapi </a> : Where are the toilettes? 
+         </li>
+         <li> 
+          <a href="UgandaMenu.mp3"> Orodha, tafadhali </a> : The menu, please 
+         </li>
+         <li>
+          <a href="UgandaILoveYou.mp3"> Nakupenda </a> : I love you 
+         </li>
+         <li> 
+          <a href="UgandaThanksalot.mp3"> Asante sana </a> : Thanks a lot
+         </li>
+       </ul>
+     </p>
+   </div>
+
+   <div class = "information">
+    <h1>Food</h1>
+    <p>
+      <a href="https://www.geniuskitchen.com/recipe/ugandan-matoke-235945">
+      <img src="https://cdn.discordapp.com/attachments/382780568527568907/592187343335718932/Matoke_-_Uganda_copy.png">
+      Matoke
+      </a>
+      
+    </p>
+
+    <p>
+      <a href="https://www.allrecipes.com/recipe/85469/indian-chapati-bread/">
+      <img src="https://cdn.discordapp.com/attachments/382780568527568907/592187174691143680/Chapati_-_Uganda_copy.png">
+      Chapati
+      </a>
+    </p>
+
+    <p>
+      <a href="https://www.196flavors.com/uganda-luwombo/">
+      <img src="https://cdn.discordapp.com/attachments/382780568527568907/592187006008819731/Luwombo_-_Uganda_copy.png">
+      Luwombo
+      </a>
+    </p>
+</div>
+
+</div>
+</body>
+</html>
