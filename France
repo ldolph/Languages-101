@@ -1,0 +1,95 @@
+<html>
+<head>
+  <title> Gargoyl </title>
+  <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<header>
+  <a href="Index.html">Languages 101</a>
+</header>
+
+<body>
+  <center> <h1> French </h1> </center>
+  <center> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" width="200" height="200"> </center>
+  
+  <div class="container">
+    <div class = "information">
+      <h1> History </h1>
+      <p>France is an independent nation in Western Europe and the center of a large overseas administration. It is the third-largest European nation. France is known for having primarily french speaking citizens. At once universal and particular, French culture has spread far and greatly influenced the development of art and science. The capital and by far the most important city of France is Paris, home to the Eiffel Tower.
+      </p>
+    </div>
+    <div class = "information"> 
+      <h1> Common Phrases </h1>
+      <p>
+        <ul>
+         <li>
+            <a href="Hello.mp3"> Bonjour </a> : Hello
+         </li>
+         <li>
+            <a href="Goodbye.mp3"> Au revoir </a> : Goodbye
+         </li>
+         <li>
+            <a href="Please.mp3"> S'il vous plait </a> : Please
+         </li>
+         <li>
+            <a href="whatsYourName.mp3"> Comment t'appelles tu? </a> : What's your name?</li>
+         <li>
+            <a href="yesNo.mp3"> Oui/Non </a> : Yes/No
+         </li>
+         <li>
+           <a href="howAreYou.mp3"> Comment allez-vous? </a> : How are you?
+         </li>
+         <li>
+           <a href="excusezMoi.mp3"> Excusez moi </a> : Excuse me 
+         </li>
+         <li> 
+           <a href="iDontUnderstand.mp3"> Je ne comprends pas </a> : I don't understand 
+         </li>
+         <li> 
+           <a href="howDoYouSayInFrench.mp3"> Comment dit-on__en francias? </a> : How do you say __ in french?
+         </li>
+         <li>
+           <a href="howMuch.mp3"> C'est combien? </a> : How much? 
+         </li>
+         <li>
+           <a href="toilet.mp3"> Ou sont les toilettes? </a> : Where are the toilettes? 
+         </li>
+         <li> 
+           <a href="mapPlease.mp3"> La carte, s'il vous plait? </a> : The map, please </li>
+         <li> 
+           <a href="iLoveYou.mp3"> Je t'aime </a> : I love you 
+         </li>
+         <li> 
+           <a href="thanksALot.mp3"> Merci beaucoup </a> : Thanks a lot 
+         </li>
+       </ul>
+     </p>
+   </div>
+
+   <div class = "information">
+    <h1>Food</h1>
+    <p>
+      <a href="https://www.foodnetwork.com/recipes/ina-garten/coq-au-vin-recipe4-2011654">
+      <img src="https://cdn.discordapp.com/attachments/382780568527568907/592181382634274826/Coq_Au_Vin_-_France_copy.png">
+      Coq Au Vin
+      </a>
+    </p>
+
+    <p>
+      <a href="https://madaboutmacarons.com/flamiche-recipe-french-leek-pie/">
+      <img src="https://cdn.discordapp.com/attachments/382780568527568907/592181145408372769/Quiche.png">
+      Flamiche
+      </a>
+    </p>
+
+    <p>
+      <a href="https://www.foodnetwork.com/recipes/confit-de-canard-1960683">
+      <img src="https://cdn.discordapp.com/attachments/382780568527568907/592178772833337344/ConfitFrance.png">
+      Confit De Canard
+      </a>
+    </p>
+</div>
+
+</div>
+</body>
+</html>
