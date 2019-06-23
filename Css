@@ -1,0 +1,92 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: url(https://cdn.discordapp.com/attachments/382780568527568907/592062643917946880/unknown.png); 
+	background-size: 100% 100%;
+}
+header{
+	text-align: center;
+	padding: 20px;
+}
+header a{
+	font-size: 45px;
+	font-family: "dephiana";
+	color: black;
+}
+a:hover{
+	color: orange;
+}
+
+h1{ 
+
+	font-family :"dephiana";
+	color :black;
+	text-align :center;
+	font-size :30px;
+}
+
+h2{
+ color: black;
+ width: 300px;
+ text-align: center;
+ font-size: 18px;
+ margin: 0 auto;
+ padding: 20px;
+ overflow: hidden;
+ font-family: nunito;
+}
+
+
+img{
+	width: 100%;
+	display: block;
+}
+
+table.center {
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+.main-content{
+	padding: 20px;
+}
+.card{
+
+	align-items: center;
+	display: inline-block;
+	width: 32%;
+	padding: 10px;
+}
+
+.box{
+	align-items: center;
+	display: inline-block;
+	width: 32%;
+	padding: 10px;
+}
+
+.card:hover{
+	opacity: 0.5;
+}
+
+.wrap {
+	display:table;width:100%
+}
+
+.container {
+	flex-direction:row;display:flex
+}
+
+.information {
+	color: black;
+ width: 300px;
+ text-align: center;
+ font-size: 15px;
+ margin: 0 auto;
+ padding: 20px;
+ overflow: hidden;
+ font-family: nunito; }
+}
